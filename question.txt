@@ -1,0 +1,1 @@
+Create a login page using react using two input boxes email and password and a login button. When you click on the login button, the data input by the user should be logged into the browser console.
