@@ -13,7 +13,7 @@ const LoginForm = () => {
     <div className="container">
     <div>
       <div className="headings">
-        <div className="heading1">💎Rete.ai</div>
+        <div className="heading1">💎Sleri.io</div>
         <div className="heading2">Sign-In</div>
       </div>
 
